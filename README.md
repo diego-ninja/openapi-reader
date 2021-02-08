@@ -6,7 +6,7 @@ Library for parsing [OpenAPI](https://swagger.io/specification/) JSON/YAML docum
 
 It's recommended that you use [Composer](https://getcomposer.org/download) to install.
 ```shell
-composer require hkarlstrom/openapi-reader
+composer require diego-ninja/openapi-reader
 ```
 
 ## License
