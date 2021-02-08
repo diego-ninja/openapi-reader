@@ -1,11 +1,15 @@
 {
-    "name": "hkarlstrom/openapi-reader",
+    "name": "diego-ninja/openapi-reader",
     "description": "Library for parsing OpenAPI JSON/YAML documentation files.",
     "license": "MIT",
     "authors": [
         {
             "name": "Henrik Karlström",
             "email": "henrik.karlstrom@gmail.com"
+        },
+        {
+            "name": "Diego Rin",
+            "email": "yosoy@diego.ninja"
         }
     ],
     "autoload": {
